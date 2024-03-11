@@ -1,16 +1,4 @@
-# homework
+# 우린 이 프로젝트를 숙제라고 하고 바카라라고 보기로 했어요 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 3월 11일 프로젝트 시작 
+    - 우선 기본적인 버튼 구현 (플레이어, 뱅커)
